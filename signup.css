@@ -1,0 +1,30 @@
+
+table{
+	border-collapse:collapse;
+	text-align:right;
+	
+}
+td,th{
+	padding:10px 10px;
+	font-style:italic;
+	font-family:verdana;
+}
+thead{
+	background-color:blue;
+	color:white;
+}
+tbody tr:nth-of-type(odd){
+	
+	border-bottom:2px solid;
+	background-color:gray;
+}
+tfoot{
+	background-color:pink;
+	color:white;
+}
+#parts_of_body{
+	width:200px;
+}
+form{
+	
+}	
